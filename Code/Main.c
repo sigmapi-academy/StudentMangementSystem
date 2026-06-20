@@ -60,6 +60,7 @@ void displayRecords(char* fileName){
 
 int main(int argc, char const *argv[])
 {
+    
     int ch;
     char fileNm[SIZE];
     while (1)
